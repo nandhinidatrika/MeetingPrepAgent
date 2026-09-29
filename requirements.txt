@@ -1,0 +1,16 @@
+# Core Frontend & App
+streamlit>=1.35.0
+
+# LLM Reasoning
+groq>=0.9.0
+
+# Persistent Memory Layer (Official Vectorize.io Hindsight SDK)
+hindsight-client>=0.10.0
+
+# Data Validation & Parsing
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Testing
+pytest>=8.0.0
